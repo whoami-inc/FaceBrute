@@ -10,7 +10,7 @@ Bruteforce attack, For educational purpose only
 
 ## Run commands one by one
 ```
->> git clone https://github.com/FaceBrute
+>> git clone https://github.com/IyoRTML/FaceBrute.git
 >> cd FaceBrute
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
