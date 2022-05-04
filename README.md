@@ -21,5 +21,5 @@ https://www.python.org/downloads/
 ```
 =+ Use 2F Authentication.
 =+ Use Strong Password.
-=+ Make location based login(+browser based).
+=+ Make location based login.
 ```
