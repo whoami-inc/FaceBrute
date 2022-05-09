@@ -5,7 +5,7 @@ https://www.python.org/downloads/
 
 ## Run commands one by one
 ```
->> git clone https://github.com/IyoRTML/FaceBrute.git
+>> git clone https://github.com/whoami-inc/FaceBrute.git
 >> cd FaceBrute
 >> py.exe -m pip install requests bs4
 >> py.exe -m pip install mechanize
